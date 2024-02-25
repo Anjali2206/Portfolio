@@ -44,7 +44,7 @@ const SocialLinks = () => {
           Resume<BsFillPersonLinesFill size={30}/>
           </>
       ),
-      href:'Anjali_Pawar_Resume.pdf',
+      href:'/AnjaliPawar_Resume.pdf',
       style:'rounded-tr-md',
       download:true,
   },
