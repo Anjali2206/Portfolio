@@ -7,9 +7,9 @@ import github from "../assets/github.png"
 import tailwind from "../assets/tailwind.png"
 import Bootstrap from "../assets/Bootstrap.png"
 import node from "../assets/node.png"
-import Mongo from "../assets/Mongo.jpeg"
+import typescript from "../assets/typescript.png"
 import mysql from "../assets/mysql.png"
-import expressJS from "../assets/expressJS.png"
+import graphql from "../assets/graphql.png"
 
 import React from 'react'
 
@@ -36,7 +36,7 @@ const Skills = () => {
         {
             id: 4,
             src: reactImage,
-            title: 'REACTIMAGE',
+            title: 'REACT',
             style: 'shadow-blue-500'
         },
         {
@@ -71,8 +71,8 @@ const Skills = () => {
         },
         {
             id: 9,
-            src: Mongo,
-            title: 'MONGO',
+            src: graphql,
+            title: 'GRAPH QL',
             style: 'shadow-green-500'
         },
         {
@@ -83,8 +83,8 @@ const Skills = () => {
         },
         {
             id: 4,
-            src: expressJS,
-            title: 'EXPRESSJS',
+            src: typescript,
+            title: 'TYPESCRIPT',
             style: 'shadow-yellow-500'
         },
 
